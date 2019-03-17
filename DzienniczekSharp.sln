@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzienniczekSharp.Wearable", "DzienniczekSharp.Wearable\DzienniczekSharp.Wearable\DzienniczekSharp.Wearable.csproj", "{F4179EB2-CD1B-459B-B379-96B7872D528E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzienniczekSharp.Wearable.Tizen.Wearable", "DzienniczekSharp.Wearable\DzienniczekSharp.Wearable.Tizen.Wearable\DzienniczekSharp.Wearable.Tizen.Wearable.csproj", "{740F79D1-EFBE-4015-BAF4-5250AF6496DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4179EB2-CD1B-459B-B379-96B7872D528E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4179EB2-CD1B-459B-B379-96B7872D528E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4179EB2-CD1B-459B-B379-96B7872D528E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4179EB2-CD1B-459B-B379-96B7872D528E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740F79D1-EFBE-4015-BAF4-5250AF6496DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740F79D1-EFBE-4015-BAF4-5250AF6496DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740F79D1-EFBE-4015-BAF4-5250AF6496DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740F79D1-EFBE-4015-BAF4-5250AF6496DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D738B695-9A34-49AB-A673-D6B2311829EF}
+	EndGlobalSection
+EndGlobal
