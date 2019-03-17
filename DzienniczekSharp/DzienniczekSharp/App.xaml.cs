@@ -6,16 +6,17 @@ using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace DzienniczekSharp.Wearable
+namespace DzienniczekSharp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class App : Application
     {
         public App()
         {
-            InitializeComponent();
+            //InitializeComponent();
 
-            MainPage = new DzienniczekSharp.Wearable.MainPage();
+            MainPage = new NavigationPage();
+            MainPage.Navigation.PushAsync(new MainPage(), false);
         }
 
         protected override void OnStart()

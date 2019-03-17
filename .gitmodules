@@ -1,0 +1,3 @@
+[submodule "VulcanAPI"]
+	path = VulcanAPI
+	url = https://github.com/dzienniczeksharp/VulcanAPI

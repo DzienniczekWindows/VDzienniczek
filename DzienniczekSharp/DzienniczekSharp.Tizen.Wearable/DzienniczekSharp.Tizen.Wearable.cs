@@ -1,6 +1,6 @@
 using System;
 
-namespace DzienniczekSharp.Wearable
+namespace DzienniczekSharp
 {
     class Program : global::Xamarin.Forms.Platform.Tizen.FormsApplication
     {

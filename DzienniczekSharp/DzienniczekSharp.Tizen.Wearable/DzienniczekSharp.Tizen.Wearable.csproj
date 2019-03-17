@@ -20,7 +20,7 @@
 
   
   <ItemGroup>
-    <ProjectReference Include="..\DzienniczekSharp.Wearable\DzienniczekSharp.Wearable.csproj" />
+    <ProjectReference Include="..\DzienniczekSharp\DzienniczekSharp.csproj" />
   </ItemGroup>
   
 
